@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[projekt.zip](https://github.com/demjen1/RP2/blob/master/db2_projekt_aplikacia.zip)
+[projekt.zip](https://github.com/demjen1/RP2/raw/master/db2_projekt_aplikacia.zip)
 
 
 ### Jekyll Themes
