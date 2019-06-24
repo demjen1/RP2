@@ -1,8 +1,11 @@
-## lafhgdsaifh
+## Rocníkový Projekt (2)
 
-You can use the [editor on GitHub](https://github.com/demjen1/RP2/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Toto je webová stránka na Ročníkový projekt (2). Stránku vytvoril Dávid Demjen
+Projekt je z predmetu Databázy(2). Je to databázový systém, ktorý rieši nákupi a rezervácie lístkov pre kino.
+Podrobnejšie v správe: [Správa projektu]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Projekt sa dá stiahnuť ako zip: [Aplikácia.zip]()
+
 
 ### Markdown
 
